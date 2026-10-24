@@ -1,0 +1,7 @@
+-i palavra-fim - isolado - hífen-interior e vírgula-,
+
+ÁÇÃÊÓÚ áçãêóú ÇEDILHA ÁGUA
+
+Símbolos especiais: «» € (%) #!
+
+T-E-S-T-E de FRASE COM MAIÚSCULAS, pontuação... e acentos: Água, Pão, Maçã!

@@ -1,0 +1,6 @@
+# Executáveis e ficheiros de compilação
+/build/
+*.o
+
+# Ficheiros do sistema
+.DS_Store
